@@ -11,6 +11,7 @@
 
     Nice to meet you👐
     I'm Choi Moonseok, with dreams of becoming a data scientist!
+    
     I am currently majoring in Food & Resource Economics and Computer Science,
     and I am studying financial data analysis and natural language processing.
 </p>
