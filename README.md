@@ -7,13 +7,12 @@
     반갑습니다👐 <br>
     데이터 사이언스가 꿈인 최문석입니다! <br><br>
     식품자원경제학과 컴퓨터공학을 전공 중이며, <br>
-    하나를 배우더라도 깊이 있게 배우려는 자세로 백엔드 개발을 학습하고 있습니다.
+    금융 데이터분석과 자연어처리를 공부중입니다.
 
     Nice to meet you👐
-    “Small changes add up to change the world”
-    I am Choi Seung-jun, a developer with the belief that it is!
-
-    I'm majoring in computer software engineering and learning backend.
+    I'm Choi Moonseok, with dreams of becoming a data scientist!
+    I am currently majoring in Food & Resource Economics and Computer Science,
+    and I am studying financial data analysis and natural language processing.
 </p>
 
 <Strong>📧Email📧</Strong><br>cmschs0301@knu.ac.kr<br>
@@ -22,9 +21,3 @@
 
 <br>
 
-<div align="center">
-    
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=moonstar0301&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmschs0301)](https://solved.ac/cmschs0301/)
-    
-</div>
