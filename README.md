@@ -5,8 +5,8 @@
 
 <p align="center">
     반갑습니다 <br>
-    데이터 사이언스가 꿈인 최문석입니다! <br><br>
-    식품자원경제학과 컴퓨터공학을 전공 중입니다.
+    데이터 사이언스가 꿈인 최문석입니다! <br>
+    식품자원경제학과 컴퓨터공학을 전공 중입니다.<br>
 
     Nice to meet you👐
     I'm Choi Moonseok, with dreams of becoming a data scientist!
